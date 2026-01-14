@@ -48,4 +48,5 @@ update | [update.joomla.org](https://update.joomla.org) | [report update](https:
 volunteers | [volunteers.joomla.org](https://volunteers.joomla.org) | [report jvols](https://github.com/joomla/volunteers.joomla.org/issues/new?title=[jvols]%20) | https://github.com/joomla/volunteers.joomla.org
 joomla! 4 | [joomla.org/4](https://www.joomla.org/4) | [report j4](https://github.com/joomla/joomla-websites/issues/new?title=[j4]%20) | N/A
 joomla! 5 | [joomla.org/5](https://www.joomla.org/5) | [report j5](https://github.com/joomla/joomla-websites/issues/new?title=[j5]%20) | N/A
+joomla! 6 | [joomla.org/6](https://www.joomla.org/6) | [report j6](https://github.com/joomla/joomla-websites/issues/new?title=[j6]%20) | N/A
 joomlacode | [joomlacode.org](http://joomlacode.org) | [report jcode](https://github.com/joomla/joomla-websites/issues/new?title=[jcode]%20) | N/A
